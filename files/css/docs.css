@@ -7,9 +7,9 @@ body{
 }
 
 #canvas{
-	width: 960px;
+	width: 942px;
 	height: 600px;
-	margin: 100px auto;
+	margin: 20px auto;
 }
 
 #book-zoom{
@@ -28,6 +28,7 @@ body{
 	transition:margin-left 0.2s ease-in-out;
 }
 
+/*Ukuran buku*/
 .sample-docs{
 	margin-top:20px;
 	width:942px;
